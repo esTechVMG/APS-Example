@@ -1,0 +1,2 @@
+xcrun simctl list | egrep '(Booted)'
+xcrun simctl push 936A8A0D-A1CF-40EA-B624-95D3C8EFBE2C com.example.pushNotifications notification.apn

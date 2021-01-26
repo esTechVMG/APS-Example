@@ -1,0 +1,13 @@
+{
+    "aps":{
+        "alert": {
+            "title": "Notificación recibida de la aplicacion push",
+            "body": "Acepta el nuevo evento para mas informacion"
+        },
+        "sound": "default",
+	"badge": 3,
+        "link_url": "https://escuelaestech.es",
+        "category": "TEST_PUSH"
+    },
+    "username": "Vicente"
+}
